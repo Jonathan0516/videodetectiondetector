@@ -70,7 +70,7 @@ const SpeechDetectionPage = () => {
   };
 
   const detectPrivacyIssues = async (text) => {
-    const apiKey = 'AIzaSyBOC2sjzicBfWkS89K_BrH-qd-R07jmAGM';
+    const apiKey = '*';
     const response = await fetch(`https://language.googleapis.com/v1/documents:analyzeEntities?key=${apiKey}`, {
       method: 'POST',
       headers: {
