@@ -3,6 +3,7 @@
 
 This project is a video parsing sidebar plugin that allows users to analyze videos for various types of content such as face detection, text detection, speech detection, and explicit content detection. The application uses React for the frontend and Express for the backend, with Google Cloud Video Intelligence API to perform the video analysis.
 
+![image](https://github.com/Jonathan0516/videodetectiondetector/blob/main/img/Poster%20Jiaxi%20Chen%20s2530822.png)
 ## Table of Contents
 
 - [Features](#features)
